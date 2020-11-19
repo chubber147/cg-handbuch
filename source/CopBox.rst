@@ -225,6 +225,8 @@ Das hier beschriebene Verfahren bietet eine Möglichkeit, zumindest den Zugriff 
 
 1. Legen Sie einen Ordner an (zum Beispiel mit dem Namen "7a-KW34-Rückmeldung-Deutsch").
 
+.. important:: Bitte beachten Sie, dass der zu erstellende Ordner nicht im Klassenordner SJ2021--7b (z.B.) liegen darf
+
 2. Klicken Sie auf der "Teilen-Symbol".
 
 3. Klicken Sie auf die Punkte ganz rechts neben dem Eintrag "Link teilen"
